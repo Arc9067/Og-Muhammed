@@ -2,11 +2,14 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <section className="py-32 min-h-screen w-full bg-fixed flex justify-center items-center" id="hero">
+    <section
+      className="py-32 min-h-screen w-full bg-fixed flex justify-center items-center"
+      id="hero"
+    >
       <div className="container grid grid-cols-1 lg:grid-cols-2 justify-between items-center gap-16">
         <article className="flex flex-col gap-8">
           <div className=" text-white text-7xl font-Header md:text-7xl">
-            Introducing OG Muhammed
+            Introducing Muhammad
           </div>
           <div className=" text-white text-2xl font-normal">
             Pepe and Toad the memecoin Launched on the ethereum. Our mission is

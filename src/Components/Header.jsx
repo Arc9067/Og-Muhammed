@@ -8,7 +8,7 @@ const Header = () => {
           href=""
           className="capitalize font-Header text-3xl hover:scale-90 md:hover:scale-110 transition"
         >
-          og muhammed
+          muhammed
         </a>
         <div className="flex items-center gap-6"></div>
       </nav>
