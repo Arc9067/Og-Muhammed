@@ -10,8 +10,8 @@ const Footer = () => {
             <div className="flex flex-col gap-7">
               <img src={Logo} alt="" className="w-20" />
               <div className=" text-white text-2xl font-Header tracking-wide">
-                We're here to assist you and will be happy to provide any
-                information or clarification you need
+                Our community is filled with belivers Follow us on social media
+                to get the most up-to-date and accurate Muhammad news.
               </div>
             </div>
             <div className="flex flex-col gap-5">

@@ -12,12 +12,15 @@ const Hero = () => {
             Introducing Muhammad
           </div>
           <div className=" text-white text-2xl font-normal">
-            Pepe and Toad the memecoin Launched on the ethereum. Our mission is
-            to provide a fun, community-driven investment opportunity that
-            celebrates the power of memes and pop culture. With a vision to
-            become the leading memecoin in the market, we believe Pepe and Toad
-            is the perfect addition to any investor’s portfolio. Join us on this
-            journey to revolutionize the world of memecoins.
+            ☪️Muhammad Cousin of Jesus☪️ crypto project on Ethereum! We're
+            blending faith and technology in a way that's cooler than a camel in
+            sunglasses With just a 1% tax, our transactions support project
+            growth and charitable causes, making it rain blessings. This ain't
+            your ordinary crypto venture – we're all about unity, empowering our
+            community through decentralized decision-making. Together, we'll
+            conquer poverty, educate minds, heal bodies, and save the planet. So
+            hop on this magic carpet ride and let's bridge the gap between
+            finance and feel-good vibes! 🚀✨
           </div>
         </article>
       </div>
