@@ -207,7 +207,7 @@ const Footer = () => {
             </div>
           </artcile>
           <div className="text-white mt-9 text-center text-[23px] font-normal leading-[41.40px]">
-            Copyright © 2023 OG MUHAMMED. All Rights Reserved.
+            Copyright © 2023 MUHAMMAD. All Rights Reserved.
           </div>
         </div>
       </div>

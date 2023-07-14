@@ -37,7 +37,7 @@ const Mics = () => {
                   Tax
                 </div>
                 <div className="text-white text-2xl lg:text-4xl font-normal font-sans">
-                  10%
+                  1%
                 </div>
               </div>
             </div>
@@ -45,10 +45,10 @@ const Mics = () => {
               <img className="w-12 h-12" src={mc} />
               <div className="justify-center items-center gap-3 flex">
                 <div className="text-white text-2xl lg:text-4xl font-Header">
-                  Buy and Sell
+                  Max Wallet
                 </div>
                 <div className="text-white text-2xl lg:text-4xl font-sans">
-                  10%
+                  5%
                 </div>
               </div>
             </div>
@@ -56,10 +56,10 @@ const Mics = () => {
               <img className="w-12 h-12" src={lp} />
               <div className="justify-center items-center gap-3 flex">
                 <div className="text-white text-2xl lg:text-4xl font-Header">
-                  LIquidity Supply
+                  Max Trx
                 </div>
                 <div className="text-white text-2xl lg:text-4xl font-normal">
-                  10%
+                  2%
                 </div>
               </div>
             </div>
