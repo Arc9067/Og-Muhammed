@@ -1,0 +1,19 @@
+@import url("https://fonts.cdnfonts.com/css/bassun-personal-use");
+@import url("https://fonts.cdnfonts.com/css/rakkas");
+
+@tailwind components;
+@tailwind utilities;
+@tailwind base;
+
+@layer {
+  #hero {
+    background: url(./assets/heroBg.svg) center center no-repeat;
+    background-size: cover;
+  }
+
+  @media screen and (max-width: 1000px) {
+    #hero {
+      background-position: top right;
+    }
+  }
+}
